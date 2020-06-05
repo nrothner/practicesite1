@@ -31,3 +31,16 @@ h1 {
 	font-size: 30px;
 	padding: .5em;
 }
+
+a {
+	text-decoration: none;
+	font-family: helvetica;
+}
+
+a:hover {
+	color: lightblue;
+}
+
+a:active {
+	color: lightblue;
+}
